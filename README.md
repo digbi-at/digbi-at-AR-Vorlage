@@ -1,5 +1,5 @@
 # digbi-at-AR-Vorlage
 
-3D-Modelle-Vorlagen für AR
+AR Marker Vorlagen
 
 Mehr Infos auf https://digbi.at/digitale-sammlungen/ar/
